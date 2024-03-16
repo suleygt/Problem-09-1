@@ -1,7 +1,7 @@
 import React from 'react';
-import PhotoListItem from './PhotoListItem'; // PhotoListItem bileşenini içe aktarın
+import PhotoListItem from './PhotoListItem'; 
 import files from '@/files';
-// PhotoList bileşeni
+
 function PhotoList() {
   return (
     <ul
